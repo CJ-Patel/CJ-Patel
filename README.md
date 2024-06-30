@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on new and exciting projects...
 - 📫 Please find me through my contact details and do not hesitate to reach out
 
-- ⚡ Fun fact: ... I'm currently working on a portfolio which will be featuring most of the projects that I've worked on whilst on my journey to become Full-Stack Developer
+- ⚡ Fun fact: I'm currently working on a portfolio which will be featuring most of the projects that I've worked on whilst on my journey to become Full-Stack Developer
 
 <!---
 CJ-Patel/CJ-Patel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
